@@ -12,6 +12,5 @@ public class Arrays {
         {
             System.out.println(arr[i]);
         }
-
     }
 }
