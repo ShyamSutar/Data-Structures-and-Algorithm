@@ -1,2 +1,4 @@
-package oop;public class Polymorphism {
+package oop;
+
+public class Polymorphism {
 }
